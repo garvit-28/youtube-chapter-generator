@@ -1,8 +1,4 @@
 import streamlit as st
-
-# ✅ MUST be first Streamlit command
-st.set_page_config(page_title="YouTube Chapter Generator", page_icon="🎬")
-
 from youtube_transcript_api import YouTubeTranscriptApi
 from keybert import KeyBERT
 from datetime import timedelta
@@ -10,21 +6,21 @@ import re
 import nltk
 import spacy
 import pandas as pd
+import os
 
-# Download NLTK resources and load spaCy model
-import spacy
-import nltk
+# ✅ MUST be first Streamlit command
+st.set_page_config(page_title="YouTube Chapter Generator", page_icon="🎬")
 
-# Ensure NLTK 'punkt' data is downloaded
+# Download NLTK resources
 nltk.download('punkt')
 
+# Ensure spaCy 'en_core_web_sm' is installed and loaded
 try:
     nlp = spacy.load("en_core_web_sm")
 except:
-    import os
+    # If spaCy model isn't found, download it
     os.system("python -m spacy download en_core_web_sm")
     nlp = spacy.load("en_core_web_sm")
-
 
 # Cache KeyBERT model
 @st.cache_resource
@@ -124,12 +120,11 @@ def main():
                 for idx, (time, title) in enumerate(chapters, 1):
                     st.markdown(f"**{time} — Chapter {idx}: {title}**")
 
-                
-
             except Exception as e:
                 st.error(f"🚨 Error: {str(e)}")
 
 if __name__ == "__main__":
     main()
+
 
 
