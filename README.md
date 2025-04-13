@@ -29,17 +29,17 @@ pip install -r requirements.txt
 
 1. **Clone the repository**:
    
-git clone https://github.com/garvit-28/youtube-chapter-generator.git
+   git clone https://github.com/garvit-28/youtube-chapter-generator.git
 
  
 2. **Navigate to the project folder**:
 
-cd youtube-chapter-generator
+   cd youtube-chapter-generator
 
 
 3. **Install required dependencies**:
 
-pip install -r requirements.txt
+   pip install -r requirements.txt
 
 
 4. **Run the Streamlit App**:
@@ -60,7 +60,6 @@ Example command to run the app:
 
 streamlit run app.py
 
-
 Once the app is running, input a YouTube video URL (e.g., `https://www.youtube.com/watch?v=dQw4w9WgXcQ`) to generate the chapters.
 
 ## License
@@ -70,11 +69,8 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## Acknowledgments
 
 - **YouTube API** for transcript extraction.
-- 
 - **KeyBERT** for keyword extraction.
-- 
-- **NLTK** and **SpaCy** for NLP tasks.
-- 
+- **NLTK** and **SpaCy** for NLP tasks. 
 - **Streamlit** for the web interface.
 
 
