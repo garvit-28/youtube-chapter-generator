@@ -2,8 +2,9 @@ streamlit
 youtube-transcript-api
 keybert
 nltk
-spacy
+spacy==3.7.1
 pandas
+
 
 
 

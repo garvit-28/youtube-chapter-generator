@@ -14,13 +14,20 @@ st.set_page_config(page_title="YouTube Chapter Generator", page_icon="🎬")
 # Download NLTK resources
 nltk.download('punkt')
 
-# Ensure spaCy 'en_core_web_sm' is installed and loaded
+import subprocess
+
+# Ensure the spaCy model is downloaded
+def download_spacy_model():
+    subprocess.call([ "python", "-m", "spacy", "download", "en_core_web_sm"])
+
 try:
+    # Try to load the model
     nlp = spacy.load("en_core_web_sm")
-except:
-    # If spaCy model isn't found, download it
-    os.system("python -m spacy download en_core_web_sm")
+except IOError:
+    # If model loading fails, download the model
+    download_spacy_model()
     nlp = spacy.load("en_core_web_sm")
+
 
 # Cache KeyBERT model
 @st.cache_resource
