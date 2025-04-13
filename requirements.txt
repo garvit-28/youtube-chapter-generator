@@ -1,9 +1,7 @@
-numpy
-pandas
-scikit-learn
+streamlit
+youtube-transcript-api
+keybert
 nltk
-requests
-beautifulsoup4
-moviepy
-pytube
-plotly
+spacy
+pandas
+
