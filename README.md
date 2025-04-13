@@ -1,4 +1,5 @@
 YouTube Chapter Generator
+
 This project generates YouTube video chapters from the video’s transcript using Natural Language Processing (NLP) and Topic Modeling (NMF) techniques. The chapters are dynamically generated based on the content, with meaningful titles derived from the transcript.
 
 Features
