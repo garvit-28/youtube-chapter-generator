@@ -1,0 +1,841 @@
+text,start,duration
+think about how often you encounter the,0.04,3.28
+following scenario there's a task you're,1.68,3.76
+trying to complete but in order to do,3.32,4.36
+that simple task you have all this,5.44,4.76
+background you have to have all these,7.68,4.36
+documents you have to read slide,10.2,3.72
+presentations to go over people you have,12.04,4.84
+to talk to Concepts you have to,13.92,6.519
+understand the problem is who in a crazy,16.88,5.8
+busy workday has time to sit down and,20.439,4.961
+spend hours reading,22.68,5.48
+things hey everyone about a year ago I,25.4,5.08
+released a YouTube video on a new,28.16,4.96
+experimental AI platform from Google,30.48,5.239
+called notebook LM but you know I,33.12,3.8
+thought this is probably not going to go,35.719,2.801
+anywhere it's just a beta just an,36.92,3.6
+experiment but let me tell you I was,38.52,4.16
+completely wrong let me show you the,40.52,4.32
+five biggest new features that notebook,42.68,4.32
+LM has come up with and no this video is,44.84,4.32
+not sponsored now before I show my,47.0,3.92
+screen I want to answer what I think is,49.16,4.28
+a really fundamental question which is,50.92,4.439
+what is notebook,53.44,4.88
+lm4 especially how is it unique and,55.359,4.601
+different from some of the other AI,58.32,3.84
+tools out there like chat GPT well I was,59.96,4.08
+reading one of the blog posts that the,62.16,4.319
+notebook LM team had written and in that,64.04,4.719
+post they called it a tool for,66.479,3.68
+understanding and I think that's the,68.759,3.321
+best simple description I've seen it's,70.159,4.121
+the ultimate tool for understanding,72.08,4.52
+things there's a lot to cover so buckle,74.28,5.0
+up grab a cup of coffee and let's Dive,76.6,5.28
+Right In first let's talk about audio,79.28,4.44
+overviews imagine if you were setting,81.88,3.279
+something or learning something or,83.72,3.399
+reading something and you just happen to,85.159,4.201
+come across a podcast in your podcast,87.119,4.521
+app between two super engaging,89.36,4.52
+knowledgeable hosts explaining that,91.64,4.519
+thing to you well now you don't have to,93.88,5.4
+be lucky you can generate exactly that,96.159,6.081
+conversation on demand anytime you want,99.28,4.6
+what you see here on my screen is the,102.24,3.64
+main interface when you log in at,103.88,5.48
+notebook lm. goole.com it's very simple,105.88,5.599
+each one of these squares contains all,109.36,4.6
+the material for a specific project so,111.479,3.6
+the first thing you're usually going to,113.96,3.92
+do is Click create new and add some,115.079,4.841
+sources these are the sources that you,117.88,3.599
+want it to know about that you want it,119.92,4.08
+to site and draw from so the project I,121.479,4.761
+have in mind is an upcoming trip to,124.0,4.239
+Guatemala that my family and I are,126.24,3.879
+planning to take this summer this is,128.239,4.041
+exactly the kind of project that I would,130.119,3.801
+love to spend lots of time on,132.28,3.72
+researching the country their culture,133.92,4.319
+their history all the itineraries the,136.0,3.68
+destinations we could visit the,138.239,3.401
+activities the cultural experiences but,139.68,3.52
+if I'm really honest with myself it's,141.64,4.36
+also the type of project that is likely,143.2,4.84
+not to be prioritized I have a lot going,146.0,3.519
+on over the next few months I'm writing,148.04,4.12
+a book I have two young kids so it's the,149.519,4.961
+kind of thing that I know I really could,152.16,4.719
+use ai's help with so the first thing,154.48,4.64
+I'm going to do is look for some sources,156.879,3.801
+that I want to draw on and this can be,159.12,3.6
+as simple as opening up Google and,160.68,7.0
+typing best places to visit in Guatemala,162.72,6.72
+and I'm going to scroll through here,167.68,3.199
+these look like great sources these,169.44,2.64
+three right here so I'm just going to,170.879,3.761
+hold down command and click each one of,172.08,6.0
+them which opens them up in tabs along,174.64,4.84
+the top up here now I'm not going to,178.08,3.079
+read them not going to dive into them,179.48,3.56
+all I want them is to stay open right,181.159,4.44
+there then let's try YouTube and here,183.04,3.919
+I'm going to be a little more specific,185.599,5.041
+I'm going to say underrated places to,186.959,7.0
+visit in Guatemala so let's open this,190.64,5.4
+one again I'm going to hold down command,193.959,4.401
+and click I'll do that one and then I,196.04,4.0
+even like that this one is specifically,198.36,3.64
+about an underrated location so let's,200.04,3.839
+add that one all right so this is a good,202.0,4.28
+start I have three websites and three,203.879,4.401
+YouTube videos which might not seem like,206.28,4.319
+a lot but it kind of is it would take me,208.28,4.599
+probably an hour or two hours to really,210.599,3.961
+dive deep into those so what I'm going,212.879,3.64
+to do instead of reading them myself is,214.56,5.12
+just add them as sources in Notebook LM,216.519,5.0
+let's open up the first website here I'm,219.68,3.839
+going to do command L to highlight the,221.519,4.761
+URL here and then command C to copy it,223.519,5.041
+and then back in Notebook LM you can see,226.28,4.92
+right down here I can add Google Drive,228.56,5.2
+documents I can add links and I can add,231.2,4.16
+pasted text so I'm going to go ahead and,233.76,4.039
+click website and then command V to,235.36,5.56
+paste and then insert no that I can,237.799,4.921
+click on the source right here and this,240.92,3.879
+little purple panel will open up called,242.72,3.92
+The Source guide The Source guide is,244.799,3.841
+just a one paragraph summary of The,246.64,4.48
+Source let's go to our second website,248.64,5.36
+command L to highlight the URL command C,251.12,4.759
+back to notebook LM I'm going to click,254.0,4.04
+this add source button right here at the,255.879,5.801
+top left website paste it add that as,258.04,6.04
+well all right so now I have two sources,261.68,3.76
+I'm just going to take a minute here and,264.08,3.88
+do the same with this,265.44,6.28
+last website,267.96,3.76
+and then it looks much the same with,272.479,3.44
+YouTube videos you just click the video,273.72,5.039
+command L copy the URL of the YouTube,275.919,5.881
+video add Source this time click YouTube,278.759,5.72
+paste it right,281.8,2.679
+there I just remembered a friend who was,284.919,5.12
+Guatemalan also sent me a country guide,287.44,6.08
+a quite long extensive PDF kind of,290.039,5.321
+highlighting and showcasing some of the,293.52,3.959
+best places to visit so I'm going to go,295.36,3.88
+ahead and add that as well to do that,297.479,4.28
+I'll hit add source and this time click,299.24,4.44
+choose file to add a file for my,301.759,3.481
+computer and I can see it's in my,303.68,3.72
+downloads folder right there there we go,305.24,3.6
+you can see it right there and there's,307.4,3.239
+one more thing I want to add which is in,308.84,4.56
+my notes which is this suggested,310.639,5.521
+itinerary that the friend who is the one,313.4,4.4
+getting married who we're going to visit,316.16,3.52
+actually suggested for us so they,317.8,5.959
+suggested a 6 day 7 night itinerary,319.68,5.239
+definitely want to take that into,323.759,3.041
+account so I'm going to go ahead and do,324.919,4.28
+command a to select all that text,326.8,5.16
+command C to copy head back over to,329.199,4.801
+notebook LM and this time I'm going to,331.96,4.32
+hit add source and right over here where,334.0,4.479
+it says copied text what that allows me,336.28,5.12
+to do is to Simply paste whatever text I,338.479,5.681
+want right into the little window here,341.4,4.919
+hit insert and that is now a source as,344.16,3.84
+well this is a good start you can see,346.319,3.521
+here I have eight different sources I'm,348.0,4.199
+working with and before I click this big,349.84,4.199
+generate button here I'm going to,352.199,3.84
+customize the conversation a little bit,354.039,4.361
+so I'm going to say just give it some,356.039,5.6
+context and details,358.4,3.239
+and then I'll click generate this is,362.84,2.6
+what you're going to see it says,364.44,2.72
+generating conversation there's a little,365.44,3.68
+circle here and this will take somewhere,367.16,4.479
+between around 3 to 6 minutes so I,369.12,4.88
+usually go get a cup of coffee or go to,371.639,4.12
+the bathroom or just take a little,374.0,4.4
+stretch break while this is generating,375.759,4.121
+all right so we're fast forwarding here,378.4,3.32
+a few minutes 3 or 4 minutes but you can,379.88,4.48
+see here it has now generated a 21,381.72,5.68
+minute 12 second podcast conversation,384.36,4.76
+that I would love to share with you now,387.4,4.519
+here it is okay so get this our listener,389.12,6.0
+is heading to Guatemala summer of 2025,391.919,5.441
+nice a week they say and they want the,395.12,3.88
+authentic experience yeah did you know,397.36,3.239
+that some of the world's most sought,399.0,3.36
+after coffee beans come from the,400.599,4.281
+volcanic slopes surrounding Antiga I did,402.36,4.239
+I actually saw something about that,404.88,4.159
+apparently Antiga has this like booming,406.599,4.921
+coffee scene not just plantations but,409.039,5.081
+like Artisan Roasters and cafes yeah I,411.52,5.2
+think one of the Articles recommended,414.12,5.16
+this place called artista de Cafe oh,416.72,5.159
+nice saying it was like this hub for,419.28,5.16
+local artists and coffee connoisseurs,421.879,4.04
+I'll go ahead and pause that now but you,424.44,3.319
+can see that this conversation is not,425.919,3.72
+just perfectly realistic and,427.759,3.321
+indistinguishable from a human,429.639,2.801
+conversation but it's completely,431.08,3.0
+customized based on the instructions,432.44,3.12
+that I gave them but you know what you,434.08,3.559
+can even customize this further and that,435.56,4.0
+is through a beta feature called,437.639,4.081
+interactive mode where believe it or not,439.56,4.24
+you can actually click a button and join,441.72,5.0
+the conversation in real time yourself,443.8,4.959
+so I've just remembered a key detail,446.72,3.68
+that I forgot to mention so let's go,448.759,3.72
+ahead and enter interactive mode and,450.4,4.199
+chime in on this conversation so I'll go,452.479,3.921
+ahead and start playing the podcast,454.599,4.44
+again okay so get this our listener is,456.4,6.12
+heading to Guatemala summer of 2025 nice,459.039,5.321
+a week they say so watch what happens,462.52,3.519
+when I click this join button and,464.36,3.959
+interrupt the conversation oh hey there,466.039,4.28
+how can we help hey guys I appreciate,468.319,4.44
+this but I forgot one key detail which,470.319,4.241
+is that we're going to have two small,472.759,4.56
+kids with us ages 2 and four could you,474.56,4.96
+please give us a recommended itinerary,477.319,4.28
+taking that into account oh wow okay,479.52,3.959
+that's definitely a key detail yeah,481.599,3.401
+traveling with a two and four-year-old,483.479,3.72
+changes things okay so let's unpack this,485.0,4.199
+and tailor our itinerary a bit yeah,487.199,3.72
+we'll need to balance adventure with,489.199,3.761
+kid-friendly options right we were about,490.919,3.96
+to get into how to experience Guatemala,492.96,4.04
+like a local and honestly that's totally,494.879,3.72
+doable with kids it's going to mean,497.0,3.72
+adjusting the pace a little exactly like,498.599,4.121
+maybe fewer super long travel days and,500.72,3.919
+more focus on activities that engage,502.72,4.68
+young ones all right so I don't know if,504.639,4.84
+you caught that but this is the most,507.4,4.56
+remarkable demonstration of AI that I,509.479,4.36
+think I've ever seen I think this is so,511.96,4.48
+powerful for a few reasons one is,513.839,4.521
+there's a lot of people out there who,516.44,4.32
+don't learn best by reading reading is,518.36,4.88
+actually really taxing and boring they,520.76,4.199
+need to listen to it but there's another,523.24,4.159
+reason which is think about the typical,524.959,4.401
+chat interactions that people have with,527.399,5.401
+AI in a chat format the onus the burden,529.36,5.28
+is always on you to keep the,532.8,3.76
+conversation moving forward you have to,534.64,3.439
+think of a question you have to think of,536.56,3.08
+a prompt you have to keep putting an,538.079,3.241
+effort to make progress this is,539.64,4.08
+completely different this is Two Hosts,541.32,3.959
+who are very knowledgeable about the,543.72,3.84
+topic and the sources having their own,545.279,4.481
+conversation completely independently of,547.56,4.719
+you it's more passive in many ways but,549.76,4.88
+that's good very often especially in,552.279,4.081
+your first encounter with something you,554.64,4.4
+want this kind of superficial surface,556.36,5.479
+level survey of the landscape that way,559.04,5.2
+you even know what topics are relevant,561.839,4.401
+what questions to ask I've been using,564.24,4.8
+audio overviews exactly that way anytime,566.24,5.719
+I want just a kind of General summary or,569.04,5.799
+survey of a topic I go straight here and,571.959,5.681
+generate a personalized podcast,574.839,5.081
+conversation on that topic I'm going to,577.64,4.52
+go ahead and close this window here on,579.92,4.12
+the side and one last thing I want to,582.16,4.119
+show you is that you're not limited to,584.04,4.56
+the audio overview if the hosts talk,586.279,4.0
+about something you find interesting and,588.6,3.84
+want to know more about well you have,590.279,4.401
+all the sources already loaded up here,592.44,4.04
+you can go right here at the bottom to,594.68,3.8
+the little chat window and ask anything,596.48,4.16
+you want for example I'm going to say,598.48,4.96
+why is antia so underrated I'm kind of,600.64,4.879
+afraid maybe it's dangerous maybe it's,603.44,4.32
+not super safe so I I want to know why,605.519,4.481
+do tourists not tend to go there and,607.76,4.0
+there you go you can see a much more,610.0,3.72
+in-depth bullet point by bullet point,611.76,4.319
+summary of what makes it so underrated,613.72,5.48
+and each one of those statements is,616.079,5.361
+cited and if you click on one of those,619.2,5.6
+little citations it takes you exactly to,621.44,4.88
+that part of the source that it's,624.8,4.24
+referring to and then last thing you can,626.32,5.16
+also create structured documents so,629.04,4.799
+let's say that you are studying,631.48,4.4
+Guatemala and you actually really decide,633.839,4.0
+you want to go deeper if you click this,635.88,3.8
+button right here the study guide it,637.839,4.521
+will generate an entire document with a,639.68,5.76
+quiz answer key essay questions glossery,642.36,5.4
+of key terms looks like a lot of the,645.44,4.839
+specific destinations it's mentioning so,647.76,5.04
+you're not limited to a surface level,650.279,4.56
+conversation you can go as deep and as,652.8,4.279
+detailed as you want now there's one,654.839,4.521
+more example of what you can do with,657.079,3.921
+with audio overviews that I want to show,659.36,3.84
+you so let's head back out to the main,661.0,4.839
+interface I'm going to create a new,663.2,4.96
+notebook and the example I showed you,665.839,4.56
+with my Guatemala trip was an example,668.16,4.6
+that uses external sources sources that,670.399,4.041
+you can find on the internet but you can,672.76,4.16
+also use your own internal thoughts,674.44,5.16
+feelings ideas journal entries and,676.92,4.12
+that's what I want to show you next so,679.6,2.84
+I'm going to go ahead and click on,681.04,3.84
+Google Docs and then right down here I,682.44,5.16
+have my endof year journaling at the end,684.88,4.6
+of every year I do something called an,687.6,4.52
+annual review or a year-end review where,689.48,5.24
+I think back to the past year and just,692.12,4.64
+reflect and journal on different,694.72,3.919
+Milestones that happened Precious,696.76,4.24
+Memories goals that I achieved lessons I,698.639,4.401
+learned and all that journaling is,701.0,3.8
+contained in this document right here,703.04,4.08
+which I'm going to insert as a source,704.8,5.44
+called thiago's 2024 year-end journaling,707.12,4.8
+you can see that there's a summary here,710.24,3.44
+of what this document is about and I'm,711.92,3.719
+just going to add that single source and,713.68,5.56
+go ahead and generate an audio overview,715.639,5.481
+I'll fast forward a few minutes here and,719.24,3.52
+now we can listen hey everyone and,721.12,4.24
+welcome to uh another Deep dive with us,722.76,4.519
+yes welcome today we're going to be uh,725.36,5.159
+looking at Thiago Forte's 2024 year in,727.279,6.24
+review which is something that uh he,730.519,6.041
+recommends people do and uh he practices,733.519,5.0
+what he preaches so yes does and it's,736.56,3.0
+also kind of interesting that he,738.519,2.601
+actually expresses some anxiety about,739.56,3.959
+doing the review oh really even though,741.12,4.079
+this is kind of his area of expertise I,743.519,2.68
+know I was going to say this is kind of,745.199,3.281
+his thing yeah is to like reflect and,746.199,4.521
+review and he even has anxiety about it,748.48,4.2
+he does he's worried about coming across,750.72,4.64
+as performative or you know not digging,752.68,4.8
+deep enough all right I'll spare you the,755.36,4.24
+rest of that what I found so fascinating,757.48,4.4
+about this is several things first of,759.6,5.08
+all it gives me such an interesting kind,761.88,5.84
+of Outsider perspective on my life you,764.68,4.64
+know I can go back and read my own,767.72,4.359
+journal entries but hearing what feels,769.32,5.0
+like two other humans talking about it,772.079,4.641
+in depth they're fascinated by the,774.32,3.84
+insights I've come up with they're,776.72,3.64
+impressed at some of the the goals that,778.16,4.84
+I've accomplished they're empathetic and,780.36,5.12
+they sympathize with some of the hard,783.0,5.0
+painful lessons that I had it really,785.48,5.919
+helps me just get out of my own,788.0,5.72
+perspective uh see my life from this,791.399,3.921
+more objective point of view which,793.72,2.919
+honestly gives me so much more,795.32,3.72
+appreciation so much more gratitude,796.639,4.721
+helps me kind of be more objective about,799.04,5.08
+even the life and the year that I had uh,801.36,5.0
+which is just kind of a really powerful,804.12,3.92
+tool for personal growth it's something,806.36,3.08
+that I'm definitely going to make part,808.04,3.72
+of my my journaling practices going,809.44,4.8
+forward next up we have feature number,811.76,6.199
+two which is an expanded context window,814.24,6.36
+I know this might seem like a boring,817.959,4.921
+backend technical feature you're like,820.6,3.72
+why do I care about this I don't even,822.88,3.44
+know what a context window is but this,824.32,3.6
+is in some ways actually the most,826.32,4.48
+important this single seemingly backend,827.92,5.919
+technical feature completely radically,830.8,5.279
+changes what is possible with AI imagine,833.839,3.601
+if you had a guidance counselor who,836.079,3.281
+could recommend the perfect Next Step in,837.44,4.079
+your learning based not just on guessing,839.36,4.56
+or a few small details about you but on,841.519,4.201
+the entire history of everything you've,843.92,4.4
+ever read and consumed notbook LM uses,845.72,5.799
+Google's Gemini 2.0 flash aai model,848.32,6.6
+which can now take in get this up to 50,851.519,8.0
+sources each one of which can have up to,854.92,7.279
+"500,000 words just to do the math for",859.519,6.56
+you that's up to 25 million words of,862.199,6.64
+context that is so much higher than any,866.079,5.12
+other AI tool out there and basically,868.839,4.041
+means you're never going to hit the,871.199,4.241
+limit almost any conceivable use case,872.88,4.959
+can fit within 25 million words but let,875.44,4.68
+me take a step back and explain what is,877.839,4.36
+a context window and why does it matter,880.12,4.6
+think of AI as having two kinds of,882.199,4.32
+memory just like humans there's,884.72,3.76
+long-term memory and there's short-term,886.519,4.281
+memory an ai's long-term memory is,888.48,4.359
+basically what's called its training,890.8,4.12
+data all the data that went into its,892.839,4.201
+creation and basically these days all,894.92,4.359
+the major AI models have the same same,897.04,4.64
+training data more or less which is the,899.279,4.721
+entire internet they're all trained on,901.68,4.719
+the internet which means paradoxically,904.0,5.279
+that there's no real advantage in its,906.399,4.921
+long-term memory in its training data,909.279,4.12
+because it's the same across all the AI,911.32,5.16
+models a short-term memory is the data,913.399,4.88
+that it's working with right now like,916.48,3.44
+what is the conversation it's having,918.279,3.441
+right now the problem it's trying to,919.92,4.279
+solve right now the person you it's,921.72,4.32
+talking with right now most of the,924.199,4.361
+advantage of working with AI now comes,926.04,4.4
+from that short-term memory the,928.56,3.32
+specifics of the problem you're trying,930.44,4.079
+to solve the history of the product or,931.88,4.84
+your company your specific skills and,934.519,4.481
+resources you have access to things,936.72,3.96
+you've tried and whether they worked or,939.0,4.519
+not that kind of data which we call your,940.68,6.44
+context is what you supply to the AI for,943.519,5.56
+it to know something about you the,947.12,4.8
+context window this term I keep using is,949.079,5.921
+simply the limits of how much context,951.92,5.359
+you can give the AI until recently it,955.0,4.48
+"was maybe a few thousand words or 10,000",957.279,4.841
+"words or maybe 30,000 words now with",959.48,5.32
+Gemini 2.0 flash that has radically,962.12,5.48
+expanded to 25 million words let me give,964.8,4.68
+you some examples imagine you work in,967.6,3.52
+product development and you could load,969.48,4.32
+up an entire folder full of hundreds or,971.12,5.159
+even thousands of in-depth customer,973.8,5.12
+interviews and then ask notebook LM to,976.279,5.161
+evaluate and analyze an idea you have,978.92,5.2
+for a new product based on all those,981.44,4.639
+past interactions imagine if you work in,984.12,3.639
+a nonprofit and you can upload an,986.079,4.041
+archive of every every single Grant,987.759,5.32
+you've ever won plus a directory of,990.12,5.199
+hundreds of currently open grants and,993.079,4.2
+then ask it to tell you which Grant,995.319,4.361
+proposals you're most likely to win and,997.279,4.92
+then to actually write the proposal,999.68,4.599
+drawing on the mission statement of your,1002.199,3.76
+organization imagine if you're having a,1004.279,3.48
+mysterious medical problem and you can,1005.959,4.68
+load up your entire medical history and,1007.759,5.121
+ask it to identify any recurring,1010.639,3.88
+patterns even across different,1012.88,4.199
+Specialties imagine if you could upload,1014.519,5.0
+the entirety of your personal notes from,1017.079,4.12
+years of reading and highlighting and,1019.519,3.601
+note taking and every time you encounter,1021.199,3.961
+a new idea such as in a book you could,1023.12,4.559
+ask the AI if there are any existing,1025.16,4.799
+connections to that idea in your notes,1027.679,3.961
+you know what let's make this concrete,1029.959,3.561
+let's actually take that last example of,1031.64,3.84
+loading up all your notes and do it in,1033.52,4.88
+real time so I'm going to go ahead and,1035.48,7.079
+create a new notebook and I actually use,1038.4,6.279
+a service called readwise which,1042.559,3.841
+automatically syncs all of the,1044.679,3.801
+highlights that I make from any ebook,1046.4,4.519
+that I read read or uh any online,1048.48,4.52
+article or other online content that I,1050.919,4.561
+save in a centralized Place rewise,1053.0,4.24
+actually has a partnership with notebook,1055.48,4.079
+LM that allows you to export the,1057.24,3.84
+entirety of all those notes and,1059.559,4.24
+highlights to Google Docs in a format,1061.08,4.4
+that's perfectly designed to be loaded,1063.799,3.681
+up into notebook LM you can check out my,1065.48,4.0
+first video for more details on how that,1067.48,4.48
+works what this allows me to do is to,1069.48,4.52
+open up my Google Drive here and I'll,1071.96,5.36
+find five Google Docs worth of all those,1074.0,6.64
+highlights so what I'm going to to do is,1077.32,5.04
+Select each of these by holding down,1080.64,3.56
+command as I click them I'll click,1082.36,4.199
+insert and there we go took about 2,1084.2,4.28
+minutes but you can see in this one,1086.559,4.161
+little paragraph right here that it's,1088.48,5.12
+essentially summarized a broad swath of,1090.72,5.319
+my learning my research my interests,1093.6,4.64
+across over a decade of my life and this,1096.039,4.12
+is where it really gets fun at this,1098.24,4.559
+stage because I can ask at some really,1100.159,5.0
+deep penetrating questions about the,1102.799,5.12
+history of my my personal growth my,1105.159,4.801
+learning my educ a in my career for,1107.919,5.521
+example I can say please summarize a,1109.96,7.4
+list of my most common recurring,1113.44,7.28
+interests based on these,1117.36,6.199
+notes there we go we can see not taking,1120.72,4.72
+in Knowledge Management types of notes,1123.559,3.48
+the value of externalizing thoughts,1125.44,3.2
+habits and routines the importance of,1127.039,3.921
+making connections all huge areas of,1128.64,4.36
+interest but then let me go beyond what,1130.96,5.0
+is found in this message here and say,1133.0,7.08
+what are some other ideas topics and,1135.96,8.04
+areas of interest that are likely to,1140.08,7.52
+resonate With Me based on this,1144.0,6.159
+list so it's essentially like a teacher,1147.6,4.24
+suggesting other things that I might,1150.159,3.361
+want to learn about now let's go beyond,1151.84,5.319
+that and say please create a study guide,1153.52,8.12
+and reading list to help me dive deeper,1157.159,7.601
+into these topics it's broken up into,1161.64,5.44
+chapters and then each chapter has key,1164.76,4.84
+questions activities and readings,1167.08,5.24
+including including my own book I love,1169.6,5.48
+this using AI as a tool here's a bigger,1172.32,4.479
+reading list and additional,1175.08,3.24
+recommendations each one of these,1176.799,3.681
+recommendations is drawing on so much,1178.32,4.16
+existing knowledge about me they're not,1180.48,5.48
+random or one siiz fits-all this is a,1182.48,5.84
+perfectly personalized learning,1185.96,4.52
+curriculum that has been generated based,1188.32,4.56
+on years of my notetaking do you get why,1190.48,5.0
+an expanded context window is so,1192.88,4.56
+critical the possibility that this is,1195.48,4.04
+opening up is a completely different way,1197.44,4.04
+of interacting with AI it's not about,1199.52,4.84
+designing these crazy extensive prompts,1201.48,4.88
+it's not about meticulously organizing,1204.36,3.799
+your sources it's really just about,1206.36,4.559
+pointing the AI at a massive repository,1208.159,5.841
+of information and letting it do the,1210.919,6.161
+work let's talk about new feature number,1214.0,5.919
+three which is multimodal sources,1217.08,4.839
+multimodal is just a fancy word that,1219.919,4.601
+means many different kinds of formats,1221.919,4.921
+notebook LM can now take basically any,1224.52,3.92
+kind of format that you want to throw at,1226.84,4.079
+it there's URLs from web pages and,1228.44,4.56
+YouTube videos like we saw you can put,1230.919,5.161
+in PDFs you can put in text Google Docs,1233.0,4.76
+audio files you could take a little,1236.08,4.04
+voice memo note while walking around,1237.76,4.24
+your neighborhood and then upload that,1240.12,4.439
+but the most exciting and newest one is,1242.0,6.32
+images specifically images within Google,1244.559,5.881
+Slides think about how often you,1248.32,4.599
+encounter information in modern work,1250.44,4.92
+especially in the form of slides,1252.919,4.161
+presentations that someone is giving to,1255.36,3.6
+you or you're giving to someone else,1257.08,4.4
+sales calls technical specifications,1258.96,4.719
+slides are a very common format these,1261.48,3.76
+days and you can now work with those,1263.679,3.88
+directly in Notebook LM let me show you,1265.24,4.24
+what that looks like as always I'll,1267.559,4.72
+start by creating a new notebook and,1269.48,4.199
+then I'm going to click right here where,1272.279,4.121
+it says Google Slides go over to recent,1273.679,5.36
+and let's use as an example a recent,1276.4,5.08
+presentation that was sent to us by our,1279.039,5.081
+insurance agent proposing a couple new,1281.48,4.319
+health benefits packages for our,1284.12,3.679
+employees so this is the kind of,1285.799,4.24
+information that is important has high,1287.799,4.36
+stakes it matters that I pay attention,1290.039,4.921
+to it but it's also just so incredibly,1292.159,5.52
+mindly boring that I want to spend as,1294.96,5.079
+little time loading up this information,1297.679,4.48
+into my brain as possible so I've loaded,1300.039,4.24
+it up as a source as you can see here,1302.159,3.961
+you can see there's a little summary,1304.279,3.841
+which is that uh they're proposing two,1306.12,4.799
+new health benefits packages okay so my,1308.12,6.679
+first question is please compare and,1310.919,7.841
+contrast the two proposed packages so,1314.799,6.201
+you can see here there's a summary uh,1318.76,4.6
+comparing their deductibles their office,1321.0,5.84
+visit costs monthly and annual cost but,1323.36,5.12
+you know what this is a little bit too,1326.84,4.64
+extensive so I'm going to say please,1328.48,6.6
+summarize more succinctly what is the,1331.48,7.6
+core difference between these plans and,1335.08,6.28
+there we go the core difference is in,1339.08,4.44
+the cost of office visits and the,1341.36,5.16
+overall monthly cost with A1 the first,1343.52,5.36
+option being more expensive so as the,1346.52,4.519
+founder and CEO of this business that is,1348.88,3.76
+really the bottom line for me I don't,1351.039,3.441
+really need to know all the fine grain,1352.64,4.48
+details that is for our insurance agent,1354.48,4.6
+that's for the operations person on my,1357.12,4.2
+team the decision of which plan to go,1359.08,4.68
+with Falls with me and what matters at,1361.32,4.16
+the end of the day is the cost so I'm,1363.76,4.64
+actually going to ask it to perform an,1365.48,6.92
+analysis of what the cost difference,1368.4,8.44
+would be between these two plans for six,1372.4,8.159
+employees over the the course of a year,1376.84,6.48
+and there we go its analysis is that the,1380.559,5.961
+"first A1 plan would cost 15,000 almost",1383.32,6.04
+"$166,000 more per year so this is the",1386.52,4.6
+part that is actually most important to,1389.36,3.52
+me I'm actually going to highlight this,1391.12,4.159
+part and say save to note which is what,1392.88,5.56
+I do anytime the AI gives me something,1395.279,5.561
+that is actually valuable longterm that,1398.44,3.92
+I want to keep track of I just click,1400.84,3.719
+that button and it saves it over here in,1402.36,5.12
+this little uh right hand bottom corner,1404.559,4.48
+but the purpose of this demonstration,1407.48,3.559
+was to show you how it works with images,1409.039,4.0
+and slides so what I'm going to do is,1411.039,3.441
+let's say I would like to know the,1413.039,3.441
+source of this I want to check that it's,1414.48,4.36
+accurate myself I can go ahead and click,1416.48,4.92
+this little one here which is the,1418.84,5.56
+citation and it takes me directly to the,1421.4,4.6
+table where it shows that price,1424.4,3.759
+difference so notice when we look at the,1426.0,4.679
+slides here how complex this information,1428.159,4.961
+is it's multicolored it's in columns,1430.679,5.401
+rows it is not an easy thing to absorb,1433.12,5.88
+but diagrams charts IM images,1436.08,5.04
+photographs all these kinds of things if,1439.0,4.4
+they're embedded in slides can now be,1441.12,4.559
+understood by notebook LM and that's the,1443.4,5.44
+multimodal capability now let's talk,1445.679,5.841
+about feature number four which is a,1448.84,5.6
+redesigned interface if we head back to,1451.52,5.639
+our Guatemala notebook as an example the,1454.44,5.119
+whole interface for a given notebook is,1457.159,5.361
+divided into these three columns which,1459.559,5.12
+they call panels on the left is the,1462.52,4.279
+sources panel this is simply what,1464.679,4.161
+sources the AI is working with and,1466.799,4.36
+drawing from and you can expand that or,1468.84,3.839
+once you've sort of settled on the,1471.159,3.081
+sources and you're not going to do a lot,1472.679,3.801
+of changes here you can just collapse,1474.24,3.6
+that so you have more space for the,1476.48,3.12
+other ones the second panel which is,1477.84,4.28
+this middle part is the chat panel which,1479.6,4.24
+is where you actually speak with and,1482.12,3.679
+interact with the AI it's nice to make,1483.84,3.6
+this large because sometimes it gives,1485.799,3.401
+quite extensive answers that you want to,1487.44,3.88
+be able to see in this wider format for,1489.2,4.44
+example if I click this question what,1491.32,4.239
+cultural and historical significance,1493.64,4.2
+shapes Guatemala's top destinations you,1495.559,4.6
+can see it's probably around 500 Words,1497.84,4.0
+so if I like this answer and I decide I,1500.159,3.481
+want to keep it for later I can just,1501.84,3.8
+scroll down click the save to note,1503.64,4.639
+button and it saves just this one answer,1505.64,4.72
+which I've decided is valuable over here,1508.279,4.12
+on the bottom right this is called the,1510.36,3.96
+studio panel this one on the right and,1512.399,4.201
+it does a number of things this is where,1514.32,4.479
+you create and interact with audio,1516.6,4.76
+overviews it's where you have these,1518.799,5.441
+pre-made options such as creating a,1521.36,5.36
+study guide or a briefing document or a,1524.24,4.679
+frequently asked questions or timeline,1526.72,5.439
+for example if I click the FAQ button,1528.919,5.201
+it's now generated in a question and,1532.159,4.441
+answer format a summary of the different,1534.12,4.08
+sources that we're working with so I can,1536.6,3.12
+go ahead and close that but I'd say the,1538.2,3.56
+most important part is these notes when,1539.72,3.6
+you have a conversation with an AI,1541.76,3.32
+unless you take an action it kind of all,1543.32,3.599
+just disappears over time so you want to,1545.08,3.839
+be sure if you get a good answer to just,1546.919,3.721
+click that little save to note button,1548.919,3.401
+and over time you'll have here at the,1550.64,3.36
+bottom right almost you can think of it,1552.32,4.52
+like the final output the gems the,1554.0,4.72
+Evergreen insights that you want to take,1556.84,3.839
+away from this conversation are all,1558.72,3.88
+going to be saved here in the notes,1560.679,4.401
+section so that's the overall interface,1562.6,4.84
+but for me by far the most important new,1565.08,4.28
+addition over the last year has been,1567.44,5.04
+these little numbers see those there's,1569.36,5.319
+kind of a big problem with most modern,1572.48,4.72
+AI tools which is they hallucinate they,1574.679,4.24
+make things up which is kind of a,1577.2,4.12
+paradox because the more you depend on,1578.919,5.441
+AI to execute important tasks and even,1581.32,5.68
+make decisions the less you can trust it,1584.36,4.52
+because you never know if it's,1587.0,3.32
+hallucinating one thing I really,1588.88,4.039
+appreciate about the notebook LM team's,1590.32,4.8
+philosophy is they had from the very,1592.919,5.041
+earliest prototypes this idea of source,1595.12,5.279
+grounding what source grounding means is,1597.96,4.76
+that especially for information that is,1600.399,4.52
+in the context window that short-term,1602.72,3.839
+memory that we talked about it's,1604.919,3.441
+basically not going to hallucinate or,1606.559,3.921
+very very rarely you can check that it's,1608.36,3.919
+not hallucinating you can essentially,1610.48,4.36
+double check the ai's answers by simply,1612.279,4.441
+clicking one of these little numbers,1614.84,3.76
+which are the source citations I'm going,1616.72,4.16
+to go ahead and click on the 16 and it,1618.6,4.199
+not only opens up the original source,1620.88,3.76
+which is this YouTube video it takes me,1622.799,4.321
+to and highlights exactly the point that,1624.64,4.279
+that came from this is a huge deal you,1627.12,4.0
+guys you have to be able to trust what,1628.919,4.041
+the AI is telling you and this new,1631.12,4.32
+interface with inline citations is a,1632.96,5.04
+huge step forward for that and finally,1635.44,5.239
+feature number five let's talk about it,1638.0,5.44
+for the very first time there is now a,1640.679,5.88
+paid upgraded version of notebook LM the,1643.44,5.0
+basic version which is most of what,1646.559,4.12
+you've seen here is free and I would,1648.44,4.08
+expect it to remain free most of,1650.679,5.24
+Google's core tools are free but if you,1652.52,5.639
+work on a team or a company or,1655.919,4.321
+organization that wants to use notebook,1658.159,4.481
+LM it may be worth checking out there's,1660.24,4.6
+actually three separate ways to get,1662.64,4.48
+notebook LM Plus either through Google,1664.84,4.28
+workspace which you may have as part of,1667.12,4.919
+your company through Google cloud or,1669.12,4.52
+through Google one which can be,1672.039,3.24
+purchased individually the pricing,1673.64,3.48
+depends on exactly how you purchase it,1675.279,4.441
+but it seems to be something around $20,1677.12,4.679
+per month and there's four main things,1679.72,4.92
+that you get as part of notebook LM plus,1681.799,5.48
+the first one is an even bigger context,1684.64,5.32
+window so instead of 25 million words,1687.279,4.64
+you can have and this is just kind of,1689.96,3.88
+mindboggling up,1691.919,5.561
+to 15 million words the only use case I,1693.84,5.439
+can think of for that is if you're at a,1697.48,3.52
+company and you want to put in like all,1699.279,3.88
+of the company's data into a prompt the,1701.0,4.279
+second thing you get is five times,1703.159,4.12
+higher usage limits so that means you,1705.279,4.12
+can create five times more audio,1707.279,3.921
+overviews and have five times more,1709.399,4.081
+notebooks again mostly useful if you're,1711.2,3.959
+working with a lot of other people on a,1713.48,3.439
+team or in a company the third plus,1715.159,4.201
+feature is what are called chat modes if,1716.919,4.12
+you click on this button right here you,1719.36,4.919
+can give notebook LM certain almost like,1721.039,5.201
+personalities that it takes on in your,1724.279,3.481
+interactions so let's say in this,1726.24,3.279
+conversation you want it to take on the,1727.76,4.24
+role of an analyst it will become more,1729.519,4.16
+critical and more analytical or it could,1732.0,3.84
+be more of a guide almost like a teacher,1733.679,4.521
+or you can Define your own personality,1735.84,3.679
+so let's say you wanted to act as a,1738.2,3.88
+marketing expert or a life coach or a,1739.519,4.4
+research assistant you can actually,1742.08,3.64
+Define that and describe it right here,1743.919,3.48
+in this box and then you can also,1745.72,3.679
+customize it to make its responses,1747.399,4.721
+longer or shorter but the fourth and I,1749.399,5.201
+think by far the most important plus,1752.12,5.32
+feature is the ability to collaborate,1754.6,5.16
+within notebook LM think about it have,1757.44,4.2
+you ever had a particularly interesting,1759.76,3.68
+interaction with an AI you're getting,1761.64,3.68
+some real insights and some real New,1763.44,3.359
+Perspectives and then you think I want,1765.32,3.68
+to share this there's often not an easy,1766.799,3.961
+way to do that except copying and,1769.0,3.36
+pasting things and sending them to,1770.76,3.799
+people via email or slack or whatever,1772.36,3.84
+but then you lose all the interaction,1774.559,3.921
+it's just a static piece of text with,1776.2,4.4
+plus you could actually get this entire,1778.48,4.24
+notebook click this share button right,1780.6,4.12
+here customize the permissions at a,1782.72,3.559
+welcome note if you'd like and then,1784.72,3.24
+choose whether you want to share the,1786.279,3.801
+full notebook with all the sources that,1787.96,4.319
+you've added with all the customizations,1790.08,4.52
+with all the notes you saved or you can,1792.279,4.4
+make it chat only you could give the,1794.6,3.64
+people on your team or the people who,1796.679,3.24
+work for you your employees or or even,1798.24,3.64
+external collaborators the ability to,1799.919,4.521
+talk with and go back and forth with the,1801.88,5.679
+essentially custom AI model that you've,1804.44,5.44
+created without you having to copy and,1807.559,3.881
+paste stuff once you've decided on the,1809.88,3.36
+settings all you have to do is click,1811.44,3.64
+this link right here to copy the link,1813.24,3.36
+and send it to them and they'll have,1815.08,3.88
+access via their own free Google,1816.6,4.64
+notebook LM account overall I would say,1818.96,4.04
+plus really makes the most sense for,1821.24,4.319
+people who have adopted notebook LM,1823.0,4.48
+pretty seriously and are using it with,1825.559,4.641
+others as part of companies like I,1827.48,5.6
+said okay I've shared a lot with you so,1830.2,4.4
+let's take a step back and kind of,1833.08,3.4
+summarize the big picture here I think,1834.6,3.84
+the big shift that's happening right now,1836.48,3.919
+with notebook LM with this much bigger,1838.44,4.359
+context window is just like a great,1840.399,5.64
+teacher it's gaining a really fantastic,1842.799,5.401
+shortterm memory think about how,1846.039,4.601
+important it is that a great teacher can,1848.2,5.0
+follow the thread of the topic that it's,1850.64,4.159
+teaching you a great teacher can,1853.2,3.479
+reference previous conversations what,1854.799,3.521
+you just said a few minutes ago they can,1856.679,3.561
+think into the future and plan out,1858.32,3.56
+different stages of a curriculum that,1860.24,2.72
+they're going to be teaching and,1861.88,2.639
+coaching you through we're living in a,1862.96,4.439
+time of just incredibly Fast Change in,1864.519,5.12
+no small part because of AI but if,1867.399,4.081
+there's one thing that I can say for,1869.639,3.801
+certain it's that we're all going to,1871.48,4.679
+have to learn much faster and much more,1873.44,5.839
+often having an AI powerered worldclass,1876.159,5.64
+teacher with a fantastic memory sitting,1879.279,4.801
+next to you and guiding you through this,1881.799,4.801
+unpredictable landscape is just a world,1884.08,4.479
+changing and even life changing,1886.6,3.919
+phenomenon that we all now have access,1888.559,4.08
+to if anything that I covered resonated,1890.519,4.081
+I encourage you to create a free account,1892.639,4.961
+at notebook lm. goole.com and let me,1894.6,6.52
+know what you think,1897.6,3.52
