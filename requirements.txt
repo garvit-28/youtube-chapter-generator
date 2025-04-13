@@ -1,0 +1,9 @@
+numpy
+pandas
+scikit-learn
+nltk
+requests
+beautifulsoup4
+moviepy
+pytube
+plotly
