@@ -12,8 +12,19 @@ import spacy
 import pandas as pd
 
 # Download NLTK resources and load spaCy model
+import spacy
+import nltk
+
+# Ensure NLTK 'punkt' data is downloaded
 nltk.download('punkt')
-nlp = spacy.load("en_core_web_sm")
+
+try:
+    nlp = spacy.load("en_core_web_sm")
+except:
+    import os
+    os.system("python -m spacy download en_core_web_sm")
+    nlp = spacy.load("en_core_web_sm")
+
 
 # Cache KeyBERT model
 @st.cache_resource
