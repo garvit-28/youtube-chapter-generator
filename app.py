@@ -4,7 +4,6 @@ from keybert import KeyBERT
 from datetime import timedelta
 import re
 import nltk
-import spacy
 import pandas as pd
 import os
 
@@ -13,21 +12,6 @@ st.set_page_config(page_title="YouTube Chapter Generator", page_icon="🎬")
 
 # Download NLTK resources
 nltk.download('punkt')
-
-import subprocess
-
-# Ensure the spaCy model is downloaded
-def download_spacy_model():
-    subprocess.call([ "python", "-m", "spacy", "download", "en_core_web_sm"])
-
-try:
-    # Try to load the model
-    nlp = spacy.load("en_core_web_sm")
-except IOError:
-    # If model loading fails, download the model
-    download_spacy_model()
-    nlp = spacy.load("en_core_web_sm")
-
 
 # Cache KeyBERT model
 @st.cache_resource
@@ -132,6 +116,5 @@ def main():
 
 if __name__ == "__main__":
     main()
-
 
 
