@@ -62,9 +62,6 @@ streamlit run app.py
 
 Once the app is running, input a YouTube video URL (e.g., `https://www.youtube.com/watch?v=dQw4w9WgXcQ`) to generate the chapters.
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Acknowledgments
 
